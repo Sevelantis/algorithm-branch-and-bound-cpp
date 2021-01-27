@@ -1,4 +1,4 @@
-# Algorithms design techniques, Oskroba Miron
+# Algorithms design techniques - Branch and Bound & Brute Force Algorithms, Oskroba Miron
 III year Wroclaw University of Science, Electronics Department, Informatics - Oskroba Miron, student.
 
 ## HOW TO RUN .EXE
